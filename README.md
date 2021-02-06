@@ -1,0 +1,1 @@
+This is portfolio website application for showcase of my skills.
