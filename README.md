@@ -1,7 +1,7 @@
-# student Portfolio
-hey !!! This is student portfolio web application for showing skills.
+# student portfolio
+hey !!! Welcome to my portfolio
 
-I know :
+For now, I know :
 
 1.JavaScript \
 2.Repl.it \
